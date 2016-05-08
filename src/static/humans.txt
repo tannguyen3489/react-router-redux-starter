@@ -1,0 +1,12 @@
+# TEAM
+
+  Name: Alan "Ell" Love
+  Site: https://github.com/ell
+  Twitter: @elgruntox
+  Location: Austin, TX
+
+# THANKS
+
+  @chentsulin for https://github.com/chentsulin/electron-react-boilerplate
+  @erikas for https://github.com/erikras/ducks-modular-redux
+  @spencercdixon for https://github.com/SpencerCDixon/redux-cli
